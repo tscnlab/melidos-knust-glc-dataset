@@ -2,7 +2,7 @@
 
 This repository contains the Kumasi, Ghana site data collected by Kwame
 Nkrumah University of Science and Technology (KNUST) for the MeLiDos field
-study. It is a GLC Schema 3.0.1 Data Package derived from the
+study. It is a GLC Schema 3.0.2 Data Package derived from the
 [original MeLiDos dataset](https://github.com/MeLiDosProject/AkuffoEtAl_Dataset_2025).
 
 The package entry point is `datapackage.json`. Core study, participant,
@@ -24,12 +24,12 @@ The source dataset is:
 > [Data set]. https://doi.org/10.5281/zenodo.15576731
 
 The refactoring converts the imported tabular RData resources to UTF-8 CSV,
-separates records by participant, and supplies GLC 3.0.1 metadata without
+separates records by participant, and supplies GLC 3.0.2 metadata without
 modifying the source repository.
 
 ## Validation
 
-The complete package passes GLC Schema 3.0.1 validation with validator 0.5.1.
+The complete package passes GLC Schema 3.0.2 validation with validator 0.5.2.
 Validation reports 0 errors. Its warnings identify empty cells already present
 in the source tables, including gaps in some sensor streams.
 
