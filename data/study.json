@@ -1,0 +1,82 @@
+[
+  {
+    "schema_version": "3.0.1",
+    "study_internal_id": "MELIDOS_KNUST_2025",
+    "study_title": "Personal light exposure dataset for Kumasi, Ghana",
+    "study_ethics": "Committee on Human Research, Publication and Ethics (CHRPE), Kwame Nkrumah University of Science and Technology (CHRPE/AP/644/24)",
+    "study_short_description": "MeLiDos field study data collected by Kwame Nkrumah University of Science and Technology (KNUST).",
+    "study_sample": "Fifteen participants from the MeLiDos Kumasi field site.",
+    "study_setting": "Field study",
+    "study_geographical_location": "Kumasi, Ghana, urban",
+    "study_contributors": [
+      {
+        "contributor_full_name": "Kwadwo Owusu Akuffo",
+        "contributor_roles": [
+          "Funding acquisition",
+          "Supervision",
+          "Validation",
+          "Resources",
+          "Writing – original draft",
+          "Writing – review & editing",
+          "Project administration",
+          "Investigation",
+          "Data curation",
+          "Visualization"
+        ],
+        "contributor_email": "akuffokwadwoowusu@knust.edu.gh",
+        "contributor_orcid": "https://orcid.org/0000-0001-6683-249X",
+        "contributor_institution": {
+          "contributor_institution_name": "Kwame Nkrumah University of Science and Technology (KNUST)",
+          "contributor_institution_city": "Kumasi",
+          "contributor_institution_country": "Ghana"
+        }
+      },
+      {
+        "contributor_full_name": "Gabriel Kwaku Agbeshie",
+        "contributor_roles": [
+          "Project administration",
+          "Investigation",
+          "Data curation",
+          "Visualization"
+        ],
+        "contributor_email": "agbeshiekwakugabriel@gmail.com",
+        "contributor_orcid": "https://orcid.org/0009-0009-6135-7111",
+        "contributor_institution": {
+          "contributor_institution_name": "Kwame Nkrumah University of Science and Technology (KNUST)",
+          "contributor_institution_city": "Kumasi",
+          "contributor_institution_country": "Ghana"
+        }
+      }
+    ],
+    "study_datasets": [
+      "MELIDOS_KNUST_S001",
+      "MELIDOS_KNUST_S002",
+      "MELIDOS_KNUST_S003",
+      "MELIDOS_KNUST_S004",
+      "MELIDOS_KNUST_S005",
+      "MELIDOS_KNUST_S006",
+      "MELIDOS_KNUST_S007",
+      "MELIDOS_KNUST_S008",
+      "MELIDOS_KNUST_S009",
+      "MELIDOS_KNUST_S010",
+      "MELIDOS_KNUST_S011",
+      "MELIDOS_KNUST_S012",
+      "MELIDOS_KNUST_S013",
+      "MELIDOS_KNUST_S014",
+      "MELIDOS_KNUST_S015"
+    ],
+    "study_type": "field study",
+    "study_funding_sources": [
+      "The MeLiDos project (22NRM05 MeLiDos) received support from the European Partnership on Metrology, with co-funding from the European Union's Horizon Europe Research and Innovation Programme and the participating member states.",
+      "Additional funding was granted by the TUM Global Incentive Fund (GIF0000031) to promote collaboration between the Technical University of Munich and Kwame Nkrumah University of Science and Technology."
+    ],
+    "study_keywords": [
+      "light exposure",
+      "circadian",
+      "wearable sensor",
+      "MeLiDos",
+      "Kumasi",
+      "Ghana"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"KNUST_S011","2024-12-16","Yes","None of the above, I did not perform any type of physical activity",,,20,240,,"2024-12-16 20:13:59","2024-12-16 20:16:24",
+"KNUST_S011","2024-12-17","Yes","Moderate (causing moderate increases in heart rate and breathing, e.g. cycling in the city)","Outdoors (e.g. running, cycling in the city)","walking",25,300,1,"2024-12-17 21:15:09","2024-12-17 21:17:01","walking"
+"KNUST_S011","2024-12-18","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Both indoors and outdoors","none",60,150,1,"2024-12-18 23:56:37","2024-12-18 23:57:40",
+"KNUST_S011","2024-12-19","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Both indoors and outdoors","walking and typing",120,150,1,"2024-12-20 00:11:37","2024-12-20 00:12:53","walking and typing"
+"KNUST_S011","2024-12-20","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","none",120,120,1,"2024-12-20 23:00:40","2024-12-20 23:01:41",
+"KNUST_S011","2024-12-21","Yes","None of the above, I did not perform any type of physical activity",,,0,0,,"2024-12-21 23:30:15","2024-12-21 23:31:02",
+"KNUST_S011","2024-12-22","Yes","None of the above, I did not perform any type of physical activity","Indoors (e.g. gym or home workout)",,0,0,,"2024-12-23 02:13:58","2024-12-23 02:14:36",

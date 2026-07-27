@@ -1,0 +1,7 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"KNUST_S001","2024-10-07","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Both indoors and outdoors","Walking outdoors and running on the staircase",60,180,1,"2024-10-07 21:12:58","2024-10-07 21:14:45","Walking outdoors and running on the staircase"
+"KNUST_S001","2024-10-08","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Outdoors (e.g. running, cycling in the city)","Walking",60,240,1,"2024-10-08 20:28:58","2024-10-08 20:29:57","Walking"
+"KNUST_S001","2024-10-10","Yes","Moderate (causing moderate increases in heart rate and breathing, e.g. cycling in the city)","Indoors (e.g. gym or home workout)","running down the staircase",10,10,1,"2024-10-10 22:17:35","2024-10-10 22:18:46","running down the staircase"
+"KNUST_S001","2024-10-11","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Outdoors (e.g. running, cycling in the city)","walking",10,360,1,"2024-10-11 23:20:33","2024-10-11 23:22:54","walking"
+"KNUST_S001","2024-10-12","Yes","None of the above, I did not perform any type of physical activity",,,30,120,,"2024-10-13 02:39:54","2024-10-13 02:40:52",
+"KNUST_S001","2024-10-13","Yes","None of the above, I did not perform any type of physical activity",,,20,15,,"2024-10-13 20:57:01","2024-10-13 20:57:29",

@@ -1,0 +1,7 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"KNUST_S013","2025-01-14 23:23:00","sleep",505,"2025-01-15 07:48:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
+"KNUST_S013","2025-01-15 22:54:00","sleep",540,"2025-01-16 07:54:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
+"KNUST_S013","2025-01-16 23:28:00","sleep",542,"2025-01-17 08:30:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
+"KNUST_S013","2025-01-17 22:15:00","sleep",711,"2025-01-18 10:06:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Past event that I forgot to log before",,1,,,,
+"KNUST_S013","2025-01-18 23:39:00","sleep",471,"2025-01-19 07:30:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
+"KNUST_S013","2025-01-19 22:55:00","sleep",551,"2025-01-20 08:06:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,

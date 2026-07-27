@@ -1,0 +1,334 @@
+participant_internal_id,participant_characteristic_name,participant_characteristic_value,participant_characteristic_unit,participant_characteristic_description
+KNUST_S001,VLSQ8,27,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S001,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S001,meq,62,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S001,msf_sc,11700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S001,sjl,1.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S001,so_w,76200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S001,so_f,81000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S001,sd_w,9.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S001,sd_f,9.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S001,msw,7500,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S001,msf,11700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S001,sd_week,9.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S001,outdoor,120,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S001,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S001,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S001,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S001,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S001,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S001,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S001,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S001,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S001,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S001,ASE,23,,Source: ase.RData; original column: ASE.
+KNUST_S002,VLSQ8,23,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S002,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S002,meq,63,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S002,msf_sc,9000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S002,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S002,so_w,82800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S002,so_f,82800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S002,sd_w,7,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S002,sd_f,7,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S002,msw,9000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S002,msf,9000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S002,sd_week,7,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S002,outdoor,77.1428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S002,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+KNUST_S002,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S002,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S002,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S002,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S002,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S002,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S002,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S002,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S002,ASE,29,,Source: ase.RData; original column: ASE.
+KNUST_S003,VLSQ8,23,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S003,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S003,meq,69,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S003,msf_sc,8357.14285695553,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S003,sjl,0.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S003,so_w,77400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S003,so_f,79200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S003,sd_w,8.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S003,sd_f,9,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S003,msw,6300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S003,msf,9000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S003,sd_week,8.64285714285714,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S003,outdoor,274.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S003,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S003,employment_status,Studying and employed,,Source: demographics.RData; original column: employment_status.
+KNUST_S003,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S003,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S003,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S003,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S003,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S003,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S003,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S003,ASE,26,,Source: ase.RData; original column: ASE.
+KNUST_S004,VLSQ8,22,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S004,meq_type,Definitely morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S004,meq,70,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S004,msf_sc,10714.2857140303,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S004,sjl,0.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S004,so_w,85200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S004,so_f,85200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S004,sd_w,6.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S004,sd_f,7.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S004,msw,10200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S004,msf,12000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S004,sd_week,6.61904761904762,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S004,outdoor,224.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S004,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+KNUST_S004,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S004,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S004,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S004,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S004,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S004,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S004,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S004,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S004,ASE,31,,Source: ase.RData; original column: ASE.
+KNUST_S005,VLSQ8,17,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S005,meq_type,Definitely morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S005,meq,72,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S005,msf_sc,4950,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S005,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S005,so_w,74700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S005,so_f,74700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S005,sd_w,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S005,sd_f,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S005,msw,4950,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S005,msf,4950,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S005,sd_week,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S005,outdoor,77.1428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S005,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S005,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S005,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S005,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S005,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S005,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S005,gen_health,Very good,,Source: health.RData; original column: gen_health.
+KNUST_S005,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S005,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S005,ASE,31,,Source: ase.RData; original column: ASE.
+KNUST_S006,VLSQ8,30,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S006,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S006,meq,60,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S006,msf_sc,13800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S006,sjl,1.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S006,so_w,85200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S006,so_f,4200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S006,sd_w,5.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S006,sd_f,5.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S006,msw,9300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S006,msf,13800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S006,sd_week,5.69047619047619,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S006,outdoor,304.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S006,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S006,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S006,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S006,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S006,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S006,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S006,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S006,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S006,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S006,ASE,25,,Source: ase.RData; original column: ASE.
+KNUST_S007,VLSQ8,16,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S007,meq_type,Intermediate,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S007,meq,58,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S007,msf_sc,8100,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S007,sjl,1.43333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S007,so_w,74280,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S007,so_f,81000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S007,sd_w,8.36666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S007,sd_f,7.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S007,msw,2940,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S007,msf,8100,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S007,sd_week,8.11904761904762,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S007,outdoor,90,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S007,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S007,employment_status,Not employed,,Source: demographics.RData; original column: employment_status.
+KNUST_S007,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S007,ASE,19,,Source: ase.RData; original column: ASE.
+KNUST_S008,VLSQ8,19,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S008,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S008,meq,61,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S008,msf_sc,6450,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S008,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S008,so_w,81300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S008,so_f,81300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S008,sd_w,6.41666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S008,sd_f,6.41666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S008,msw,6450,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S008,msf,6450,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S008,sd_week,6.41666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S008,outdoor,137.142857142857,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S008,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S008,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S008,glasses_use,TRUE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S008,ASE,28,,Source: ase.RData; original column: ASE.
+KNUST_S009,VLSQ8,20,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S009,meq_type,Intermediate,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S009,meq,53,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S009,msf_sc,11571.4285709858,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S009,sjl,0.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S009,so_w,84600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S009,so_f,84600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S009,sd_w,7,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S009,sd_f,8.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S009,msw,10800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S009,msf,13500,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S009,sd_week,7.42857142857143,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S009,outdoor,102.857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S009,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S009,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S009,medication,TRUE,,Source: health.RData; original column: medication.
+KNUST_S009,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S009,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S009,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S009,gen_health,Very good,,Source: health.RData; original column: gen_health.
+KNUST_S009,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S009,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S009,ASE,19,,Source: ase.RData; original column: ASE.
+KNUST_S010,VLSQ8,20,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S010,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S010,meq,65,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S010,msf_sc,4800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S010,sjl,0.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S010,so_w,79800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S010,so_f,79800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S010,sd_w,6.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S010,sd_f,6.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S010,msw,4800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S010,msf,5700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S010,sd_week,6.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S010,outdoor,120,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S010,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+KNUST_S010,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S010,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S010,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S010,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S010,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S010,gen_health,Very good,,Source: health.RData; original column: gen_health.
+KNUST_S010,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S010,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S010,ASE,25,,Source: ase.RData; original column: ASE.
+KNUST_S011,VLSQ8,13,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S011,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S011,meq,60,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S011,msf_sc,11057.1428569555,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S011,sjl,0.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S011,so_w,84600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S011,so_f,84600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S011,sd_w,7,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S011,sd_f,7.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S011,msw,10800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S011,msf,11700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S011,sd_week,7.14285714285714,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S011,outdoor,342.857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S011,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S011,employment_status,Marginally employed (Minijob),,Source: demographics.RData; original column: employment_status.
+KNUST_S011,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S011,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S011,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S011,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S011,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S011,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S011,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S011,ASE,27,,Source: ase.RData; original column: ASE.
+KNUST_S012,VLSQ8,20,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S012,meq_type,Moderately morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S012,meq,68,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S012,msf_sc,11400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S012,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S012,so_w,1200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S012,so_f,1200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S012,sd_w,5.66666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S012,sd_f,5.66666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S012,msw,11400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S012,msf,11400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S012,sd_week,5.66666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S012,outdoor,137.142857142857,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S012,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S012,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S012,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S012,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S012,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S012,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S012,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S012,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S012,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S012,ASE,30,,Source: ase.RData; original column: ASE.
+KNUST_S013,VLSQ8,19,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S013,meq_type,Definitely morning type,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S013,meq,73,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S013,msf_sc,6750,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S013,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S013,so_w,81900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S013,so_f,81900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S013,sd_w,6.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S013,sd_f,6.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S013,msw,6750,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S013,msf,6750,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S013,sd_week,6.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S013,outdoor,265.714285714286,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S013,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+KNUST_S013,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S013,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S013,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S013,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S013,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S013,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S013,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S013,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S013,ASE,27,,Source: ase.RData; original column: ASE.
+KNUST_S014,VLSQ8,20,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S014,meq_type,Intermediate,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S014,meq,45,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S014,msf_sc,8288.57142901421,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S014,sjl,1,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S014,so_w,79320,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S014,so_f,79320,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S014,sd_w,7.96666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S014,sd_f,9.96666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S014,msw,7260,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S014,msf,10860,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S014,sd_week,8.53809523809524,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S014,outdoor,81.4285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S014,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+KNUST_S014,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S014,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S014,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S014,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S014,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S014,gen_health,Very good,,Source: health.RData; original column: gen_health.
+KNUST_S014,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S014,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S014,ASE,31,,Source: ase.RData; original column: ASE.
+KNUST_S015,VLSQ8,27,,Source: vlsq8.RData; original column: VLSQ8.
+KNUST_S015,meq_type,Intermediate,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+KNUST_S015,meq,57,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+KNUST_S015,msf_sc,5700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+KNUST_S015,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+KNUST_S015,so_w,79800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+KNUST_S015,so_f,79800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+KNUST_S015,sd_w,6.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+KNUST_S015,sd_f,6.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+KNUST_S015,msw,5700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+KNUST_S015,msf,5700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+KNUST_S015,sd_week,6.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+KNUST_S015,outdoor,325.714285714286,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+KNUST_S015,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+KNUST_S015,employment_status,Not employed but studying or in training,,Source: demographics.RData; original column: employment_status.
+KNUST_S015,medication,FALSE,,Source: health.RData; original column: medication.
+KNUST_S015,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+KNUST_S015,drugs,FALSE,,Source: health.RData; original column: drugs.
+KNUST_S015,disorder,FALSE,,Source: health.RData; original column: disorder.
+KNUST_S015,gen_health,Excellent,,Source: health.RData; original column: gen_health.
+KNUST_S015,visual_acuity,I do not require prescription glasses and/or contact lenses,,Source: health.RData; original column: visual_acuity.
+KNUST_S015,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+KNUST_S015,ASE,23,,Source: ase.RData; original column: ASE.
