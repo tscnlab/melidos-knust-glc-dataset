@@ -1,6 +1,6 @@
 [
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "KNUST_AL01",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "KNUST_AL02",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "KNUST_AL03",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",

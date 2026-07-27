@@ -1,6 +1,6 @@
 [
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S001",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -100,10 +100,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -212,10 +208,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -4104,7 +4096,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -4113,7 +4106,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -5929,7 +5923,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S002",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -6029,10 +6023,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -6141,10 +6131,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -10033,7 +10019,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -10042,7 +10029,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -11858,7 +11846,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S003",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -11958,10 +11946,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -12070,10 +12054,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -15962,7 +15942,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -15971,7 +15952,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -17788,7 +17770,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S004",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -17888,10 +17870,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -18000,10 +17978,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -21892,7 +21866,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -21901,7 +21876,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -23718,7 +23694,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S005",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -23818,10 +23794,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -23930,10 +23902,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -27822,7 +27790,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -27831,7 +27800,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -29648,7 +29618,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S006",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -29748,10 +29718,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -29860,10 +29826,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -33752,7 +33714,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -33761,7 +33724,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -35578,7 +35542,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S007",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -35658,10 +35622,6 @@
       {
         "term": "employment_status",
         "label": "Employment Status"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "gender",
@@ -35750,10 +35710,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -39192,7 +39148,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -39201,7 +39158,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -41018,7 +40976,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S008",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -41116,10 +41074,6 @@
         "label": "Feedback Provider Identity Specification"
       },
       {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
-      },
-      {
         "term": "future_device_use",
         "label": "Future Device Use"
       },
@@ -41214,10 +41168,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -44944,7 +44894,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -44953,7 +44904,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -46769,7 +46721,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S009",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -46869,10 +46821,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -46981,10 +46929,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -50873,7 +50817,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -50882,7 +50827,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -52699,7 +52645,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S010",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -52799,10 +52745,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -52911,10 +52853,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -56803,7 +56741,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -56812,7 +56751,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -58628,7 +58568,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S011",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -58728,10 +58668,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -58840,10 +58776,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -62732,7 +62664,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -62741,7 +62674,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -64557,7 +64491,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S012",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -64657,10 +64591,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -64769,10 +64699,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -68661,7 +68587,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -68670,7 +68597,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -70487,7 +70415,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S013",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -70587,10 +70515,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -70699,10 +70623,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -74591,7 +74511,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -74600,7 +74521,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -76417,7 +76339,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S014",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -76517,10 +76439,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -76629,10 +76547,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -80521,7 +80435,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -80530,7 +80445,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
@@ -82347,7 +82263,7 @@
     ]
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "dataset_internal_id": "MELIDOS_KNUST_S015",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -82447,10 +82363,6 @@
       {
         "term": "feedback_provider_identity_specification",
         "label": "Feedback Provider Identity Specification"
-      },
-      {
-        "term": "final_wake_time",
-        "label": "Final Wake Time"
       },
       {
         "term": "future_device_use",
@@ -82559,10 +82471,6 @@
       {
         "term": "sex",
         "label": "Sex"
-      },
-      {
-        "term": "sleep_attempt_time",
-        "label": "Sleep Attempt Time"
       },
       {
         "term": "sleep_diary_comments",
@@ -86451,7 +86359,8 @@
             "dataset_file_variables_labels": "Attempted sleep time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "sleep_attempt_time"
+              "variable_term": "other",
+              "variable_name": "sleepprep"
             },
             "dataset_file_variables_description": "What time did you try to go to sleep?"
           },
@@ -86460,7 +86369,8 @@
             "dataset_file_variables_labels": "Final awakening time",
             "dataset_file_variables_type": "string",
             "dataset_file_variables_term": {
-              "variable_term": "final_wake_time"
+              "variable_term": "other",
+              "variable_name": "wake"
             },
             "dataset_file_variables_description": "What time was your final awakening? i.,e. when did you wake up today?"
           },
