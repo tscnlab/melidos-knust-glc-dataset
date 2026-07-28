@@ -1,2 +1,2 @@
 "Id","medication","medication_type","tobacco","drugs","disorder","gen_health","visual_acuity"
-"KNUST_S009",TRUE,,FALSE,FALSE,FALSE,"Very good","I do not require prescription glasses and/or contact lenses"
+"KNUST_S009",TRUE,,FALSE,FALSE,FALSE,2,1

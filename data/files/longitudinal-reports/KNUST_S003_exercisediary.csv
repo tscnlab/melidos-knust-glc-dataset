@@ -1,8 +1,8 @@
 "Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
-"KNUST_S003","2024-10-21","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","work out",180,180,0,"2024-10-21 21:06:04","2024-10-21 21:10:31","exercise"
-"KNUST_S003","2024-10-22","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","walking for a long time",180,240,0,"2024-10-22 20:53:30","2024-10-22 21:00:18","walking for a long time"
-"KNUST_S003","2024-10-23","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","walking",180,240,0,"2024-10-23 20:05:21","2024-10-23 20:06:10","walking"
-"KNUST_S003","2024-10-24","Yes","None of the above, I did not perform any type of physical activity",,,180,240,,"2024-10-24 20:21:58","2024-10-24 20:22:34",
-"KNUST_S003","2024-10-25","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","walking",180,240,0,"2024-10-25 20:54:26","2024-10-25 20:55:29","walking"
-"KNUST_S003","2024-10-26","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","walking",120,180,0,"2024-10-26 22:57:44","2024-10-26 22:58:39","walking"
-"KNUST_S003","2024-10-27","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","walking",240,180,0,"2024-10-27 20:03:47","2024-10-27 20:04:44","walking"
+"KNUST_S003","2024-10-21",1,3,2,"work out",180,180,0,"2024-10-21 21:06:04","2024-10-21 21:10:31","exercise"
+"KNUST_S003","2024-10-22",1,3,2,"walking for a long time",180,240,0,"2024-10-22 20:53:30","2024-10-22 21:00:18","walking for a long time"
+"KNUST_S003","2024-10-23",1,3,2,"walking",180,240,0,"2024-10-23 20:05:21","2024-10-23 20:06:10","walking"
+"KNUST_S003","2024-10-24",1,4,,,180,240,,"2024-10-24 20:21:58","2024-10-24 20:22:34",
+"KNUST_S003","2024-10-25",1,3,2,"walking",180,240,0,"2024-10-25 20:54:26","2024-10-25 20:55:29","walking"
+"KNUST_S003","2024-10-26",1,3,2,"walking",120,180,0,"2024-10-26 22:57:44","2024-10-26 22:58:39","walking"
+"KNUST_S003","2024-10-27",1,3,2,"walking",240,180,0,"2024-10-27 20:03:47","2024-10-27 20:04:44","walking"

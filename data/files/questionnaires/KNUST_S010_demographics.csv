@@ -1,2 +1,2 @@
 "Id","age","sex","gender","native_language","language_specification","employment_status","comments"
-"KNUST_S010",24,"Female","Woman",FALSE,"Advanced","Not employed but studying or in training",
+"KNUST_S010",24,1,1,FALSE,1,4,

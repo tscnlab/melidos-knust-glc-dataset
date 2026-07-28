@@ -1,2 +1,2 @@
 "Id","age","sex","gender","native_language","language_specification","employment_status","comments"
-"KNUST_S003",25,"Male","Man",TRUE,,"Studying and employed",
+"KNUST_S003",25,2,2,TRUE,,5,
