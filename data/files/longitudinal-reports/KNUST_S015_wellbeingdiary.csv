@@ -1,8 +1,8 @@
 "Id","Date","who5_1998_1","who5_1998_2","who5_1998_3","who5_1998_4","who5_1998_5","startdate_2","who5_raw","who5_percentage"
-"KNUST_S015","2025-01-27","Most of the time","Most of the time","More than half of the time","Fair","At no time","2025-01-28 09:52:56",14,56
-"KNUST_S015","2025-01-28","Some of the time","Some of the time","More than half of the time","Fair","At no time","2025-01-28 23:08:02",8,32
-"KNUST_S015","2025-01-29","At no time","Some of the time","More than half of the time","Fair","At no time","2025-01-29 21:55:30",7,28
-"KNUST_S015","2025-01-30","Less than half of the time","Less than half of the time","More than half of the time","Fair","Some of the time","2025-01-30 21:51:05",11,44
-"KNUST_S015","2025-01-31","Some of the time","Less than half of the time","Less than half of the time","Fair","Less than half of the time","2025-01-31 22:02:42",10,40
-"KNUST_S015","2025-02-01","Less than half of the time","Less than half of the time","Less than half of the time","Fair","Less than half of the time","2025-02-01 21:35:13",11,44
-"KNUST_S015","2025-02-02","Some of the time","Less than half of the time","Less than half of the time","Fair","Less than half of the time","2025-02-03 06:08:55",10,40
+"KNUST_S015","2025-01-27",5,5,4,3,1,"2025-01-28 09:52:56",14,56
+"KNUST_S015","2025-01-28",2,2,4,3,1,"2025-01-28 23:08:02",8,32
+"KNUST_S015","2025-01-29",1,2,4,3,1,"2025-01-29 21:55:30",7,28
+"KNUST_S015","2025-01-30",3,3,4,3,2,"2025-01-30 21:51:05",11,44
+"KNUST_S015","2025-01-31",2,3,3,3,3,"2025-01-31 22:02:42",10,40
+"KNUST_S015","2025-02-01",3,3,3,3,3,"2025-02-01 21:35:13",11,44
+"KNUST_S015","2025-02-02",2,3,3,3,3,"2025-02-03 06:08:55",10,40
