@@ -4800,63 +4800,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -5214,43 +5164,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -5622,33 +5542,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -10723,63 +10623,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -11137,43 +10987,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -11545,33 +11365,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -16646,63 +16446,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -17061,43 +16811,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -17469,33 +17189,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -22570,63 +22270,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -22947,7 +22597,8 @@
             "Imported from the raw ActLumus logs and restricted to the participant-specific trial interval.",
             "MEDI measurements above 100000 lx were removed and implicit timestamp gaps were expanded into explicit rows.",
             "Irregular timestamps were regularized to the nominal 10-second interval; detected short MEDI spikes were replaced with the value two intervals earlier.",
-            "Converted from the repository's processed RData table to UTF-8 CSV and split by participant; this final packaging step did not intentionally alter rows or variables."
+            "Converted from the repository's processed RData table to UTF-8 CSV and split by participant; this final packaging step did not intentionally alter rows or variables.",
+            "Fractional EVENT values created when regularization averaged EVENT=1 and EVENT=0 source records within a 10-second bin were restored to integer event code 1 using the raw ActLumus logs."
           ]
         },
         "dataset_file_variables": [
@@ -22985,43 +22636,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -23393,33 +23014,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -28494,63 +28095,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -28871,7 +28422,8 @@
             "Imported from the raw ActLumus logs and restricted to the participant-specific trial interval.",
             "MEDI measurements above 100000 lx were removed and implicit timestamp gaps were expanded into explicit rows.",
             "Irregular timestamps were regularized to the nominal 10-second interval; detected short MEDI spikes were replaced with the value two intervals earlier.",
-            "Converted from the repository's processed RData table to UTF-8 CSV and split by participant; this final packaging step did not intentionally alter rows or variables."
+            "Converted from the repository's processed RData table to UTF-8 CSV and split by participant; this final packaging step did not intentionally alter rows or variables.",
+            "Fractional EVENT values created when regularization averaged EVENT=1 and EVENT=0 source records within a 10-second bin were restored to integer event code 1 using the raw ActLumus logs."
           ]
         },
         "dataset_file_variables": [
@@ -28909,43 +28461,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -29317,33 +28839,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -34419,63 +33921,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -34833,43 +34285,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -35241,33 +34663,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -39853,63 +39255,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -40267,43 +39619,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -40675,33 +39997,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -45598,63 +44900,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -46012,43 +45264,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -46420,33 +45642,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -51484,7 +50686,8 @@
             "Imported from the raw ActLumus logs and restricted to the participant-specific trial interval.",
             "MEDI measurements above 100000 lx were removed and implicit timestamp gaps were expanded into explicit rows.",
             "Irregular timestamps for this participant were regularized to the nominal 10-second interval.",
-            "Converted from the repository's processed RData table to UTF-8 CSV and split by participant; this final packaging step did not intentionally alter rows or variables."
+            "Converted from the repository's processed RData table to UTF-8 CSV and split by participant; this final packaging step did not intentionally alter rows or variables.",
+            "Fractional EVENT values created when regularization averaged EVENT=1 and EVENT=0 source records within a 10-second bin were restored to integer event code 1 using the raw ActLumus logs."
           ]
         },
         "dataset_file_variables": [
@@ -51522,63 +50725,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -51936,43 +51089,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -52344,33 +51467,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -57445,63 +56548,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -57859,43 +56912,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -58267,33 +57290,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -63368,63 +62371,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -63782,43 +62735,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -64190,33 +63113,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -69292,63 +68195,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -69706,43 +68559,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -70114,33 +68937,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -75216,63 +74019,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -75630,43 +74383,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -76038,33 +74761,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -81140,63 +79843,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -81554,43 +80207,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -81962,33 +80585,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -87064,63 +85667,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "5",
-                "label": "Code 5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "7",
-                "label": "Code 7",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "8",
-                "label": "Code 8",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "9",
-                "label": "Code 9",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "14",
-                "label": "Code 14",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -87478,43 +86031,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "0.5",
-                "label": "Code 0.5",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "4",
-                "label": "Code 4",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
@@ -87886,33 +86409,13 @@
           },
           {
             "dataset_file_variables_name": "EVENT",
-            "dataset_file_variables_labels": "EVENT",
-            "dataset_file_variables_type": "factor",
+            "dataset_file_variables_labels": "Event marker code",
+            "dataset_file_variables_type": "integer",
             "dataset_file_variables_term": {
               "variable_term": "device_event"
             },
-            "dataset_file_variables_factor_levels": [
-              {
-                "value": "0",
-                "label": "Code 0",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "1",
-                "label": "Code 1",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "2",
-                "label": "Code 2",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              },
-              {
-                "value": "3",
-                "label": "Code 3",
-                "description": "Code meaning requires confirmation from ActLumus documentation."
-              }
-            ]
+            "dataset_file_variables_description": "Integer event-marker code exported by the ActLumus device; code meanings require ActLumus documentation.",
+            "dataset_file_variables_units": "{event_code}"
           },
           {
             "dataset_file_variables_name": "TEMPERATURE",
